@@ -1,2 +1,3 @@
 jupyterlab
 jupyterlab-link-share
+pytest
